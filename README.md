@@ -11,7 +11,6 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=0D1117)
 
 ### 🌱 Studying in this moment
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=%23ffffff&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=0D1117)
 
 ### 📚 Other Knowledge
