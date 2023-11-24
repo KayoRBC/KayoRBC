@@ -11,12 +11,15 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=0D1117)
 
 ### 🌱 Studying in this moment
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=0D1117)
+![Spring Framework](https://img.shields.io/badge/spring%20framework-0D1117?style=for-the-badge&logo=spring&logoColor=%236DB33F&labelColor=0D1117)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=%236DB33F&labelColor=0D1117)&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=%236DB33F&labelColor=0D1117)&nbsp;
 
 ### 📚 Other Knowledge
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=0D1117)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
